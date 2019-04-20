@@ -5,7 +5,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@MapperScan("com.bykelsi.entity")
+@MapperScan("com.bykelsi.repository")
 public class ManageApplication {
 
 	public static void main(String[] args) {

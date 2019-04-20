@@ -1,0 +1,9 @@
+user:
+    userName: admin
+    userCode: admin
+    userPassword: admin
+    phone: 18310262516
+    address: china
+    questionCode: 001
+    questionContent: please input your  pinyin name ?
+    answer: tangshouchun
